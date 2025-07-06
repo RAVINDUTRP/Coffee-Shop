@@ -47,8 +47,12 @@ This project showcases a simple yet visually appealing coffee shop website craft
 
 ---
 
+https://github.com/user-attachments/assets/3ea58443-3220-4d51-807d-632e26970182
+
+
+
 This is a test project to practice frontend skills. Feel free to explore, customize, and learn from it! Your feedback is always appreciated. 🚀
 
----
 
-https://github.com/user-attachments/assets/3ea58443-3220-4d51-807d-632e26970182
+
+
